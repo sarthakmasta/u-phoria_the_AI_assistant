@@ -34,8 +34,3 @@ python GUI.py
 ## Notes
 
 - Make sure your microphone is connected.
-- If `pyaudio` doesn’t install, use:
-  ```
-  pip install pipwin
-  pipwin install pyaudio
-  ```
